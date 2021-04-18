@@ -30,6 +30,10 @@ Route::resource('Guest', GuestController::class);
 Route::resource('Room', RoomController::class);
 Route::resource('Seating', SeatingController::class);
 
+
+
+
+
 // Protected routes
 Route::group(['middleware' => ['auth:sanctum']], function () {
     Route::post('/products', [ProductController::class, 'store']);
