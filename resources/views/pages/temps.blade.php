@@ -65,292 +65,20 @@
                     <img src="images/glanz_logo_bl.png" alt="">
                     <div class="gla_logo_txt">
                         <!-- Logo -->
-                        <a href="/" class="gla_logo">Carita & Lee</a>
+                        <a href="/" class="gla_logo">Annisa & Andi</a>
                         
                         <!-- Text Logo -->
-                        <div class="gla_logo_und">August 10, 2017</div>
+                        <div class="gla_logo_und">June 5, 2021</div>
                     </div>
                 </div>
 
-                <!-- Menu -->
-                <div class="gla_main_menu gla_main_menu_mobile">
-                    
-                    <div class="gla_main_menu_icon">
-                        <i></i><i></i><i></i><i></i>
-                        <b>Menu</b>
-                        <b class="gla_main_menu_icon_b">Back</b>
-                    </div>
-                </div>
                 
-                <!-- Menu Content -->
-                <div class="gla_main_menu_content gla_image_bck" data-color="rgba(0,0,0,0.9)" data-image="http://placehold.it/1400x800">
-                    <!-- Over -->
-                    <div class="gla_over" data-color="#000" data-opacity="0.7"></div>
-                </div>
+                
+                
 
-                <div class="gla_main_menu_content_menu gla_wht_txt text-right">
-                    <div class="container">
-                        <ul>
-                            <li class="gla_parent"><a href="#">Demos</a>
-                                <ul>
-                                    <li><a href="01_01_home_simple_flowers.html">Home 1 - Animated Flowers</a></li>
-                                    <li><a href="01_02_home_pink_flowers.html">Home 2- Pink Animated Flowers</a></li>
-                                    <li><a href="01_03_home_golden.html">Home 3 - Golden Badges</a></li>
-                                    <li><a href="01_04_home_flbg.html">Home 4 - Great Flowers</a></li>
-                                    <li><a href="01_05_home_flbg.html">Home 5 - Great Flowers</a></li>
-                                    <li><a href="01_06_home_flbg.html">Home 6 - Great Flowers</a></li>
-                                    <li><a href="01_10_home_parallax.html">Home 7 - Parallax</a></li>
-                                    <li><a href="01_09_home_land.html">Home 8 - Landing</a></li>
-                                </ul>
-                            </li>
+                
 
-                            <li class="gla_parent"><a href="#">Business</a>
-                                <ul>
-                                    <li><a href="01_07_wedding_planner.html">Wedding Planner</a></li>
-                                    <li><a href="01_08_wedding_flowers.html">Wedding Flowers</a></li>
-                                    <li><a href="01_11_wedding_cakes.html">Wedding Cakes</a></li>
-                                </ul>
-                            </li>
-
-                            <li class="gla_parent"><a href="#">Invitations</a>
-                                <ul>
-                                    <li><a href="02_01_invitation.html">Invitation 1</a></li>
-                                    <li><a href="02_02_invitation.html">Invitation 2</a></li>
-                                    <li><a href="02_03_invitation.html">Invitation 3</a></li>
-                                    <li><a href="02_04_invitation.html">Invitation 4</a></li>
-                                </ul>
-                            </li>
-
-                            <li class="gla_parent"><a href="#">Blog</a>
-                                <ul>
-                                    <li><a href="03_01_blog_sidebar.html">Blog with Sidebar</a></li>
-                                    <li><a href="03_02_blog_1col.html">Blog Full Width</a></li>
-                                    <li><a href="03_03_blog_single_sidebar.html">Single Post with Sidebar</a></li>
-                                    <li><a href="03_04_blog_single_col1.html">Single Post Full Width</a></li>
-                                </ul>
-                            </li>
-                            <li class="gla_parent"><a href="#">Shop</a>
-                                <ul>
-                                    <li><a href="04_01_shop_category_col1.html">Shop Category</a></li>
-                                    <li><a href="04_02_shop_category_sidebar.html">Shop Category with Sidebar</a></li>
-                                    <li><a href="04_03_shop_single_sidebar.html">Shop Item Page</a></li>
-                                    <li><a href="04_04_shop_cart.html">Shop Cart</a></li>
-                                    <li><a href="04_05_shop_checkout.html">Shop Checkout</a></li>
-                                </ul>
-                            </li>
-                            <li class="gla_parent"><a href="#">Elements</a>
-                                 <ul class="mega-menu">
-                                    
-                                    <li class="mega-menu-col">
-                                        <ul>
-                                            <li class="mega-menu-col-header">Shortcodes</li>
-                                            <li><a href="05_01_shortcodes.html#accordions"><i class="ti ti-layout-accordion-separated"></i> Accordions</a></li>
-                                            <li><a href="05_01_shortcodes.html#tabs"><i class="ti ti-layout-tab"></i> Tabs</a></li>
-                                            <li><a href="05_01_shortcodes.html#buttons"><i class="ti ti-layout-grid2"></i> Buttons</a></li>
-                                            <li><a href="05_01_shortcodes.html#labels"><i class="ti ti-comment"></i> Labels</a></li>
-                                            <li><a href="05_01_shortcodes.html#alerts"><i class="ti ti-alert"></i> Alerts</a></li>
-                                            <li><a href="05_01_shortcodes.html#lightbox"><i class="ti ti-plus"></i> Lightbox</a></li>
-                                            <li><a href="05_01_shortcodes.html#progress_bars"><i class="ti ti-layout-list-post"></i> Progress Bars</a></li>
-                                            <li><a href="05_01_shortcodes.html#counters"><i class="ti ti-timer"></i> Counters & Charts</a></li>
-                                            <li><a href="05_01_shortcodes.html#twitter"><i class="ti ti-twitter"></i> Twitter Feeds</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="mega-menu-col">
-                                        <ul>
-                                            <li class="mega-menu-col-header">Wedding Elements</li>
-                                            <li><a href="05_14_when_where.html">When & Where Blocks</a></li>
-                                            <li><a href="05_15_friends.html">Friends Blocks</a></li>
-                                            <li><a href="05_16_about.html">About Us Blocks</a></li>
-                                            <li><a href="05_17_save.html">Save the Date Blocks</a></li>
-                                            <li><a href="05_18_rsvp.html">RSVP Blocks</a></li>
-                                            <li><a href="05_19_badges.html">All Animated Badges</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="mega-menu-col">
-                                        <ul>
-                                            <li class="mega-menu-col-header">Other</li>
-                                            <li><a href="05_02_testimonials.html">Testimonials Page</a></li>
-                                            <li><a href="05_03_passpartu.html">Passpartu Page</a></li>
-                                            <li><a href="05_04_preloader.html">Preloader Page</a></li>
-                                            <li><a href="05_05_videointro.html">Video Intro Page</a></li>
-                                            <li><a href="05_06_video_slider.html">Video Slider Page</a></li>
-                                            <li><a href="05_07_video_section.html">Video Section Page</a></li>
-                                            <li><a href="05_08_slider.html">Slider Page</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="mega-menu-col">
-                                        <ul>
-                                            <li class="mega-menu-col-header">Headers & Footers</li>
-                                            <li><a href="05_09_header_transparent.html">Transparent Header</a></li>
-                                            <li><a href="05_10_header_white.html">White Header</a></li>
-                                            <li><a href="05_11_header_black.html">Black Header</a></li>
-                                            <li><a href="05_12_header_image.html">Image Header</a></li>
-                                            <li><a href="05_13_footers.html#grey">Grey Footer</a></li>
-                                            <li><a href="05_13_footers.html#black">Black Footer</a></li>
-                                            <li><a href="05_13_footers.html#white">White Footer</a></li>
-                                            <li><a href="05_13_footers.html#simple">Simple Footer</a></li>
-                                        </ul>
-                                    </li>
-
-                                    
-                                </ul>
-                            </li>
-
-                          
-                        </ul>
-                        <div class="gla_main_menu_content_menu_copy">
-                            <form>
-                                <input type="text" class="form-control" placeholder="Enter Your Keywords">
-                                <button type="submit" class="btn">
-                                  Search
-                                </button>
-                            </form>
-                            <br>
-                            <p>© GlanzThemes 2017</p>
-                            <!-- Social Buttons -->
-                            <div class="gla_footer_social">
-                                <a href="#"><i class="ti ti-facebook gla_icon_box"></i></a>
-                                <a href="#"><i class="ti ti-instagram gla_icon_box"></i></a>
-                                <a href="#"><i class="ti ti-google gla_icon_box"></i></a>
-                                <a href="#"><i class="ti ti-youtube gla_icon_box"></i></a>
-                                <a href="#"><i class="ti ti-twitter gla_icon_box"></i></a>
-                                <a href="#"><i class="ti ti-pinterest gla_icon_box"></i></a>
-                            </div>
-                            
-                        </div>
-                    </div>
-                    <!-- container end -->
-                </div>
-                <!-- menu content end -->
-
-                <!-- Search Block -->
-                <div class="gla_search_block">
-                    
-                    <div class="gla_search_block_link gla_search_parent"><i class="ti ti-search"></i>
-                        <ul>
-                            <li>
-                                <form>
-                                    <input type="text" class="form-control" placeholder="Enter Your Keywords">
-                                    <button type="submit" class="btn">
-                                      <i class="ti ti-search"></i>
-                                    </button>
-                                </form>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- Search Block End -->
-
-                <!-- Top Menu -->
-                <div class="gla_default_menu">
-                    <ul>
-                        <li class="gla_parent"><a href="#">Demos</a>
-                            <ul>
-                                <li><a href="01_01_home_simple_flowers.html">Home 1 - Animated Flowers</a></li>
-                                <li><a href="01_02_home_pink_flowers.html">Home 2- Pink Animated Flowers</a></li>
-                                <li><a href="01_03_home_golden.html">Home 3 - Golden Badges</a></li>
-                                <li><a href="01_04_home_flbg.html">Home 4 - Great Flowers</a></li>
-                                <li><a href="01_05_home_flbg.html">Home 5 - Great Flowers</a></li>
-                                <li><a href="01_06_home_flbg.html">Home 6 - Great Flowers</a></li>
-                                <li><a href="01_10_home_parallax.html">Home 7 - Parallax</a></li>
-                                <li><a href="01_09_home_land.html">Home 8 - Landing</a></li>
-                            </ul>
-                        </li>
-
-                        <li class="gla_parent"><a href="#">Business</a>
-                            <ul>
-                                <li><a href="01_07_wedding_planner.html">Wedding Planner</a></li>
-                                <li><a href="01_08_wedding_flowers.html">Wedding Flowers</a></li>
-                                <li><a href="01_11_wedding_cakes.html">Wedding Cakes</a></li>
-                            </ul>
-                        </li>
-
-                        <li class="gla_parent"><a href="#">Invitations</a>
-                            <ul>
-                                <li><a href="02_01_invitation.html">Invitation 1</a></li>
-                                <li><a href="02_02_invitation.html">Invitation 2</a></li>
-                                <li><a href="02_03_invitation.html">Invitation 3</a></li>
-                                <li><a href="02_04_invitation.html">Invitation 4</a></li>
-                            </ul>
-                        </li>
-
-                        <li class="gla_parent"><a href="#">Blog</a>
-                            <ul>
-                                <li><a href="03_01_blog_sidebar.html">Blog with Sidebar</a></li>
-                                <li><a href="03_02_blog_1col.html">Blog Full Width</a></li>
-                                <li><a href="03_03_blog_single_sidebar.html">Single Post with Sidebar</a></li>
-                                <li><a href="03_04_blog_single_col1.html">Single Post Full Width</a></li>
-                            </ul>
-                        </li>
-                        <li class="gla_parent"><a href="#">Shop</a>
-                            <ul>
-                                <li><a href="04_01_shop_category_col1.html">Shop Category</a></li>
-                                <li><a href="04_02_shop_category_sidebar.html">Shop Category with Sidebar</a></li>
-                                <li><a href="04_03_shop_single_sidebar.html">Shop Item Page</a></li>
-                                <li><a href="04_04_shop_cart.html">Shop Cart</a></li>
-                                <li><a href="04_05_shop_checkout.html">Shop Checkout</a></li>
-                            </ul>
-                        </li>
-                        <li class="gla_parent"><a href="#">Elements</a>
-                             <ul class="mega-menu">
-
-                                <li class="mega-menu-col">
-                                    <ul>
-                                        <li class="mega-menu-col-header">Wedding Elements</li>
-                                        <li><a href="05_14_when_where.html">When & Where Blocks</a></li>
-                                        <li><a href="05_15_friends.html">Friends Blocks</a></li>
-                                        <li><a href="05_16_about.html">About Us Blocks</a></li>
-                                        <li><a href="05_17_save.html">Save the Date Blocks</a></li>
-                                        <li><a href="05_18_rsvp.html">RSVP Blocks</a></li>
-                                        <li><a href="05_19_badges.html">All Animated Badges</a></li>
-                                    </ul>
-                                </li>
-                                
-                                <li class="mega-menu-col">
-                                    <ul>
-                                        <li class="mega-menu-col-header">Shortcodes</li>
-                                        <li><a href="05_01_shortcodes.html#accordions"><i class="ti ti-layout-accordion-separated"></i> Accordions</a></li>
-                                        <li><a href="05_01_shortcodes.html#tabs"><i class="ti ti-layout-tab"></i> Tabs</a></li>
-                                        <li><a href="05_01_shortcodes.html#buttons"><i class="ti ti-layout-grid2"></i> Buttons</a></li>
-                                        <li><a href="05_01_shortcodes.html#labels"><i class="ti ti-comment"></i> Labels</a></li>
-                                        <li><a href="05_01_shortcodes.html#alerts"><i class="ti ti-alert"></i> Alerts</a></li>
-                                        <li><a href="05_01_shortcodes.html#lightbox"><i class="ti ti-plus"></i> Lightbox</a></li>
-                                        <li><a href="05_01_shortcodes.html#progress_bars"><i class="ti ti-layout-list-post"></i> Progress Bars</a></li>
-                                        <li><a href="05_01_shortcodes.html#counters"><i class="ti ti-timer"></i> Counters & Charts</a></li>
-                                        <li><a href="05_01_shortcodes.html#twitter"><i class="ti ti-twitter"></i> Twitter Feeds</a></li>
-                                    </ul>
-                                </li>
-                                <li class="mega-menu-col">
-                                    <ul>
-                                        <li class="mega-menu-col-header">Other</li>
-                                        <li><a href="05_02_testimonials.html">Testimonials Page</a></li>
-                                        <li><a href="05_04_preloader.html">Preloader Page</a></li>
-                                        <li><a href="05_05_videointro.html">Video Intro Page</a></li>
-                                        <li><a href="05_06_video_slider.html">Video Slider Page</a></li>
-                                        <li><a href="05_07_video_section.html">Video Section Page</a></li>
-                                        <li><a href="05_08_slider.html">Slider Page</a></li>
-                                    </ul>
-                                </li>
-                                <li class="mega-menu-col">
-                                    <ul>
-                                        <li class="mega-menu-col-header">Headers & Footers</li>
-                                        <li><a href="05_09_header_transparent.html">Transparent Header</a></li>
-                                        <li><a href="05_10_header_white.html">White Header</a></li>
-                                        <li><a href="05_11_header_black.html">Black Header</a></li>
-                                        <li><a href="05_12_header_image.html">Image Header</a></li>
-                                        <li><a href="05_13_footers.html#grey">Grey Footer</a></li>
-                                        <li><a href="05_13_footers.html#black">Black Footer</a></li>
-                                        <li><a href="05_13_footers.html#white">White Footer</a></li>
-                                        <li><a href="05_13_footers.html#simple">Simple Footer</a></li>
-                                    </ul>
-                                </li>
-
-                                
-                            </ul>
-                        </li>  
-                    </ul>
-                </div>
-                <!-- Top Menu End -->
+                
 
 
                
@@ -363,7 +91,8 @@
 
 
     <!-- Slider -->
-    <div class="gla_slider gla_image_bck gla_fixed" data-stellar-background-ratio="0.2" data-color="#efe5dd">
+    {{-- <div class="gla_slider gla_image_bck gla_fixed" data-stellar-background-ratio="0.2" data-color="#efe5dd"> --}}
+    <div class="gla_slider gla_image_bck gla_fixed" data-stellar-background-ratio="0.2" data-color="#f6ecf0" data-image="images/app/295798.jpg">
         
         <div class="gla_slider_flower">
              <div class="gla_slider_flower_c1 gla_slider_flower_item" data-start="top:0px; left:0px" data-200-start="top:-300px; left:-300px"></div>
@@ -383,9 +112,15 @@
             <!-- Slider Texts -->
             <div class="gla_slide_txt gla_slide_center_middle text-center">
                 
-                <div class="gla_slide_midtitle">Carita & Lee <br>10 August, 2017</div>
-
+                <div class="gla_slide_midtitle">Annisa & Andi <br>June 5<sup>th</sup>, 2021</div>
+                {{-- <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MGdnYmRlYWpwb3NpMmhzMXJnaTJncWRwYWUgZml0cmFuZGlyYW1hZGhhbkBt&amp;tmsrc=fitrandiramadhan%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a> --}}
                 
+
+                <form action="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MGdnYmRlYWpwb3NpMmhzMXJnaTJncWRwYWUgZml0cmFuZGlyYW1hZGhhbkBt&amp;tmsrc=fitrandiramadhan%40gmail.com">
+                    <button type="submit" class="button-submit" value="Go to Google">add to calendar</button>
+                </form>
+                
+
             </div>
             <!-- Slider Texts End -->
         
@@ -408,59 +143,205 @@
 
     <!-- Content -->
     <section id="gla_content" class="gla_content">
-
-        
        
 
 
-       <!-- section -->
-        <section class="gla_section gla_lg_padding gla_image_bck gla_fixed gla_wht_txt" data-stellar-background-ratio="0.2" data-image="http://placehold.it/1400x800">
+        <!-- section -->
+        <section class="gla_section">
+            
 
-             <div class="gla_slider_flower" data-bottom-top="@class:active" data--200-bottom="@class:no_active">
+            
+            <div class="container text-center">
+                
+                
+
+                <div class="row text-center">
+
+                    
+                    <div class="col-md-4 gla_round_block">
+                        <div class="gla_round_im gla_image_bck" data-image="images/app/pasfoto_01.png"></div>
+                        <h3>Fitrandi Ramadhan</h3>
+                    </div>
+                    <div class="col-md-4 gla_round_block">
+                        <p><img src="images/animations/mrandmrs.gif" data-bottom-top="@src:images/animations/mrandmrs.gif" height="150" alt=""></p>
+                
+                        <h3>Are getting married<br>on June 5<sup>th</sup>, 2021</h3>
+                        <h4>07.00 - 10.00 AM (WIB)</h4>
+                        <h4>Villa Akira,<br>Megamendung, Bogor.</h4>
+                        <p><a href="https://goo.gl/maps/SiqeqtZtCRqsTXcA7" class="btn">Location</a></p>
+                        
+                    </div>
+                    <div class="col-md-4 gla_round_block">
+                        <div class="gla_round_im gla_image_bck" data-image="images/app/pasfoto_02.png"></div>
+                        <h3>Annisa Fitria Rachim</h3>
+                    </div>
+                </div>
+
+                
+                
+                <div class="gla_countdown" data-year="2021" data-month="6" data-day="5"></div>
+
+
+                
+
+                
+                
+            </div>
+            <!-- container end -->
+
+        </section>
+        <!-- section end -->
+
+        <!-- section -->
+        <section class="gla_section gla_lg_padding gla_image_bck gla_fixed gla_wht_txt" data-stellar-background-ratio="0.2" data-image="images/app/295791.jpg">
+
+            <div class="gla_slider_flower" data-bottom-top="@class:active" data--200-bottom="@class:no_active">
             <div class="gla_slider_flower_c1 gla_slider_flower_item"></div>
             <div class="gla_slider_flower_c2 gla_slider_flower_item"></div>
             <div class="gla_slider_flower_c3 gla_slider_flower_item"></div>
             <div class="gla_slider_flower_c4 gla_slider_flower_item"></div>
             <div class="gla_slider_flower_c5 gla_slider_flower_item"></div>
             <div class="gla_slider_flower_c6 gla_slider_flower_item"></div>
-        </div>
-            
+            </div>
             
             <div class="container text-center">
-                
-                <p><img src="images/animations/ourwedding_wh.gif" data-bottom-top="@src:images/animations/ourwedding_wh.gif" height="150" alt=""></p>
-
-                <h2>We’re Getting Married!</h2>
-
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium nisi earum nihil perspiciatis magnam facilis, error explicabo obcaecati maiores sunt exercitationem doloribus tempora, sit voluptate autem quibusdam velit alias. Reprehenderit.</p>
-
-
-                
+                <p><img src="images/animations/just_st.gif" data-bottom-top="@src:images/animations/just.gif" height="150" alt=""></p>
+                <div class="gla_slide_midtitle">See you at the wedding!</div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum pariatur vel rerum qui nesciunt eaque, suscipit delectus sunt, dolore facilis! Dignissimos fugit facere veniam ad nisi, eveniet pariatur maiores laborum!</p>
+                <p><a href="#" class="btn">RSVP</a></p>
             </div>
             <!-- container end -->
 
         </section>
         <!-- section end -->
-
-
-        <!-- section -->
-        <section class="gla_section gla_image_bck gla_fixed" data-stellar-background-ratio="0.2" data-color="#fff">
-            
-            
-            <div class="container text-center">
-                <p><img src="images/animations/savethedate.gif" data-bottom-top="@src:images/animations/savethedate.gif" height="150" alt=""></p>
-                <h2>August 10th, 2017</h2>
-                <h3 class="gla_subtitle">St. Thomas's Church,<br>Bristol, U.K.</h3>
-                <div class="gla_countdown" data-year="2017" data-month="08" data-day="10"></div>
-                
-            </div>
-            <!-- container end -->
-
-        </section>
-        <!-- section end -->
-
-
         
+        <!-- section -->
+        <section class="gla_section gla_image_bck" data-color="#f2f2f2">
+            
+            
+            <div class="container text-center">
+                <p><img src="images/animations/flower6.gif" data-bottom-top="@src:images/animations/flower6.gif; opacity:1" class="gla_animated_flower" height="110" alt=""></p>
+                <h2>Wedding Details</h2>
+                <h4>Our ceremony and reception will be held at Villa Akira. Located on Megamendung Bogor, it has a beautiful, unobstructed view of the rice field and beautiful village in Puncak.</h4>
+                <div class="row text-center">
+                    <div class="col-md-4 gla_round_block">
+                        <div class="gla_round_im gla_image_bck" data-image="http://placehold.it/600x600"></div>
+                        <h3>Choose Your Food</h3>
+                        <p>    
+                            Food is served full course per person.<br>
+                            Please choose your menu before May 10<sup>th</sup>, 2021.
+                        </p>
+
+                        <a href="#" class="btn">View Map</a>
+                    </div>
+                    <div class="col-md-4 gla_round_block">
+                        <div class="gla_round_im gla_image_bck" data-image="http://placehold.it/600x600"></div>
+                        <h3>Here's Your Villa</h3>
+                        <p>
+                            We Provide Villa for  your stay 1 day before our wedding day.
+                            Find your villa details here.
+                        </p>
+                        <a href="#" class="btn">View Map</a>
+                    </div>
+                    <div class="col-md-4 gla_round_block">
+                        <div class="gla_round_im gla_image_bck" data-image="http://placehold.it/600x600"></div>
+                        <h3>What to Wear</h3>
+                        <p>
+                            We'd love to see you in you white casual outfit.<br>
+                            We recommend not to wear high heels.
+                        </p>
+                        <a href="#" class="btn">View Map</a>
+                    </div>
+                </div>
+
+                
+            </div>
+            <!-- container end -->
+
+        </section>
+        <!-- section end -->
+
+        <section class="gla_section gla_image_bck" data-color="#fff">
+            
+
+            
+            <div class="container text-center">
+
+                <h2>Health Protocol</h2>
+                <h3 class="gla_subtitle">Help prevent the spread of respiratory desease like COVID-19</h3>
+
+                <!-- icon boxes -->
+                <div class="gla_icon_boxes row">
+                    
+                    <!-- animation -->
+                    <div data-animation="animation_blocks" data-bottom="@class:noactive" data--100-bottom="@class:active">
+                        
+                        <!-- item -->
+                        <div class="gla_icon_box col-md-2 col-sm-6">
+                            <i class="flaticon-018-smartphone"></i>
+                            <div class="gla_icon_box_content">
+                                <h4><b>Wajib Masker</b></h4>
+                                Guests must wear medical mask at the venue of the Wedding.
+                            </div>    
+                        </div>
+
+                        <!-- item -->
+                        <div class="gla_icon_box col-md-2 col-sm-6">
+                            <i class="flaticon-018-smartphone"></i>
+                            <div class="gla_icon_box_content">
+                                <h4><b>QR Code</b></h4>
+                                One invitation code only usable for one person.
+                            </div>
+                        </div>
+
+                        <!-- item -->
+                        <div class="gla_icon_box col-md-2 col-sm-6">
+                            <i class="flaticon-027-wedding-invitation"></i>
+                            <div class="gla_icon_box_content">
+                                <h4><b>Hand Sanitizer</b></h4>
+                                Hand sanitizer are available at the wedding venue.
+                            </div>
+                        </div>
+
+                        <!-- item -->
+                        <div class="gla_icon_box col-md-2 col-sm-6">
+                            <i class="flaticon-019-plate-1"></i>
+                            <div class="gla_icon_box_content">
+                                <h4><b>Hand Wash</b></h4>
+                                Please wash your hands before and after entering the venue.
+                            </div>
+                        </div>
+
+                        <!-- item -->
+                        <div class="gla_icon_box col-md-2 col-sm-6">
+                            <i class="flaticon-020-gift"></i>
+                            <div class="gla_icon_box_content">
+                                <h4><b>Distancing</b></h4>
+                                Please make sure you're one meter away with the other person.
+                            </div>
+                        </div> 
+
+                        <!-- item -->
+                        <div class="gla_icon_box col-md-2 col-sm-6">
+                            <i class="flaticon-020-gift"></i>
+                            <div class="gla_icon_box_content">
+                                <h4><b>TBD</b></h4>
+                                Lorem ipsum dolor sit amet, consectetur adipisicingelit, sed do
+                            </div>
+                        </div> 
+                    
+                    </div>
+                    <!-- anmation end -->
+
+                </div>
+                <!-- icon boxes end -->
+                
+            </div>
+            <!-- container end -->
+
+        </section>
+        <!-- section end -->
+
 
         <!-- section -->
         <section class="gla_section gla_lg_padding gla_image_bck" data-color="#efe5dd">
@@ -487,91 +368,6 @@
 
         </section>
         <!-- section end -->
-
-
-        
-        <!-- section -->
-        <section class="gla_section gla_image_bck gla_wht_txt gla_fixed" data-stellar-background-ratio="0.8" data-image="http://placehold.it/1400x800">
-
-            <!-- Over -->
-            <div class="gla_over" data-color="#1e1d2d" data-opacity="0.4"></div>
-            
-            <div class="container text-center">
-
-
-                <h2>Registry</h2>
-                <p>We’re lucky enough to have nearly everything we need for our home already. And since neither of us has ever been outside of North America, we want our honeymoon to be extra special! If you want to help make it unforgettable, you can contribute using the link to the right. If you would like to give us something to update our home, we’ve compiled a short registry as well.</p>
-
-                <!-- icon boxes -->
-                <div class="gla_icon_boxes gla_partners row">
-                    
-                        
-                    <!-- item -->
-                    <div class="gla_partner_box">
-                        <a href="#"><img src="http://placehold.it/250x100" height="80" alt=""></a>
-                    </div>
-
-                    <!-- item -->
-                    <div class="gla_partner_box">
-                        <a href="#"><img src="http://placehold.it/250x100" height="80" alt=""></a>
-                    </div>
-
-                    <!-- item -->
-                    <div class="gla_partner_box">
-                        <a href="#"><img src="http://placehold.it/250x100" height="80" alt=""></a>
-                    </div>
-
-                    <!-- item -->
-                    <div class="gla_partner_box">
-                        <a href="#"><img src="http://placehold.it/250x100" height="80" alt=""></a>
-                    </div>
-
-                    <!-- item -->
-                    <div class="gla_partner_box">
-                        <a href="#"><img src="http://placehold.it/250x100" height="80" alt=""></a>
-                    </div>
-
-                    <!-- item -->
-                    <div class="gla_partner_box">
-                        <a href="#"><img src="http://placehold.it/250x100" height="80" alt=""></a>
-                    </div>
-
-                    <!-- item -->
-                    <div class="gla_partner_box">
-                        <a href="#"><img src="http://placehold.it/250x100" height="80" alt=""></a>
-                    </div>
-
-                    <!-- item -->
-                    <div class="gla_partner_box">
-                        <a href="#"><img src="http://placehold.it/250x100" height="80" alt=""></a>
-                    </div>
-
-                    <!-- item -->
-                    <div class="gla_partner_box">
-                        <a href="#"><img src="http://placehold.it/250x100" height="80" alt=""></a>
-                    </div>
-
-                    <!-- item -->
-                    <div class="gla_partner_box">
-                        <a href="#"><img src="http://placehold.it/250x100" height="80" alt=""></a>
-                    </div>
-
-      
-
-                    
-                    
-
-                </div>
-                <!-- icon boxes end -->
-                
-                
-                
-            </div>
-            <!-- container end -->
-
-        </section>
-        <!-- section end -->
-
 
         <!-- section -->
         <section class="gla_section gla_image_bck">
@@ -779,7 +575,129 @@
 
         </section>
         <!-- section end -->
+        
+        <!-- section -->
+        <section class="gla_section gla_image_bck gla_wht_txt gla_fixed" data-stellar-background-ratio="0.8" data-image="http://placehold.it/1400x800">
 
+            <!-- Over -->
+            <div class="gla_over" data-color="#1e1d2d" data-opacity="0.4"></div>
+            
+            <div class="container text-center">
+
+
+                <h2>Registry</h2>
+                <p>We’re lucky enough to have nearly everything we need for our home already. And since neither of us has ever been outside of North America, we want our honeymoon to be extra special! If you want to help make it unforgettable, you can contribute using the link to the right. If you would like to give us something to update our home, we’ve compiled a short registry as well.</p>
+
+                <!-- icon boxes -->
+                <div class="gla_icon_boxes gla_partners row">
+                    
+                        
+                    <!-- item -->
+                    <div class="gla_partner_box">
+                        <a href="#"><img src="http://placehold.it/250x100" height="80" alt=""></a>
+                    </div>
+
+                    <!-- item -->
+                    <div class="gla_partner_box">
+                        <a href="#"><img src="http://placehold.it/250x100" height="80" alt=""></a>
+                    </div>
+
+                    <!-- item -->
+                    <div class="gla_partner_box">
+                        <a href="#"><img src="http://placehold.it/250x100" height="80" alt=""></a>
+                    </div>
+
+                    <!-- item -->
+                    <div class="gla_partner_box">
+                        <a href="#"><img src="http://placehold.it/250x100" height="80" alt=""></a>
+                    </div>
+
+                    <!-- item -->
+                    <div class="gla_partner_box">
+                        <a href="#"><img src="http://placehold.it/250x100" height="80" alt=""></a>
+                    </div>
+
+                    <!-- item -->
+                    <div class="gla_partner_box">
+                        <a href="#"><img src="http://placehold.it/250x100" height="80" alt=""></a>
+                    </div>
+
+                    <!-- item -->
+                    <div class="gla_partner_box">
+                        <a href="#"><img src="http://placehold.it/250x100" height="80" alt=""></a>
+                    </div>
+
+                    <!-- item -->
+                    <div class="gla_partner_box">
+                        <a href="#"><img src="http://placehold.it/250x100" height="80" alt=""></a>
+                    </div>
+
+                    <!-- item -->
+                    <div class="gla_partner_box">
+                        <a href="#"><img src="http://placehold.it/250x100" height="80" alt=""></a>
+                    </div>
+
+                    <!-- item -->
+                    <div class="gla_partner_box">
+                        <a href="#"><img src="http://placehold.it/250x100" height="80" alt=""></a>
+                    </div>
+
+      
+
+                    
+                    
+
+                </div>
+                <!-- icon boxes end -->
+                
+                
+                
+            </div>
+            <!-- container end -->
+
+        </section>
+        <!-- section end -->
+
+
+        
+
+        <!-- section -->
+        <section class="gla_section">
+
+            <div class="container text-center">
+
+                <h2 data-animation="animation_blocks" data-bottom="@class:noactive" data--100-bottom="@class:active">Our happy clients</h2>
+
+                
+                <div class="gla_team_slider_single">
+                    <div class="gla_reviews_item">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam magni aperiam perferendis quas eveniet. Aspernatur nisi debitis mollitia perspiciatis. Aspernatur fugiat velit vel excepturi explicabo dolore! Voluptatem, quo dolores accusantium.</p>
+                        <div class="gla_reviews_item_img">
+                            <img src="http://placehold.it/100x100" alt="">
+                        </div>
+                        <p>Mirabelle Noelene</p>
+                    </div>
+                    <div class="gla_reviews_item">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam magni aperiam perferendis quas eveniet. Aspernatur nisi debitis mollitia perspiciatis. Aspernatur fugiat velit vel excepturi explicabo dolore! Voluptatem, quo dolores accusantium.</p>
+                        <div class="gla_reviews_item_img">
+                            <img src="http://placehold.it/100x100" alt="">
+                        </div>
+                        <p>Claude Allegra</p>
+                    </div>
+                    <div class="gla_reviews_item">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam magni aperiam perferendis quas eveniet. Aspernatur nisi debitis mollitia perspiciatis. Aspernatur fugiat velit vel excepturi explicabo dolore! Voluptatem, quo dolores accusantium.</p>
+                        <div class="gla_reviews_item_img">
+                            <img src="http://placehold.it/100x100" alt="">
+                        </div>
+                        <p>Emmaline Cynthia</p>
+                    </div>
+                </div>
+
+                    
+            </div>
+            <!-- container end -->
+        </section>
+        <!-- section end -->
 
 
         <!-- section -->
