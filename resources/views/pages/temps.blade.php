@@ -156,25 +156,26 @@
                 
 
                 <div class="row text-center">
-
-                    
                     <div class="col-md-4 gla_round_block">
                         <div class="gla_round_im gla_image_bck" data-image="images/app/pasfoto_01.png"></div>
                         <h3>Fitrandi Ramadhan</h3>
                     </div>
                     <div class="col-md-4 gla_round_block">
                         <p><img src="images/animations/mrandmrs.gif" data-bottom-top="@src:images/animations/mrandmrs.gif" height="150" alt=""></p>
-                
-                        <h3>Are getting married<br>on June 5<sup>th</sup>, 2021</h3>
-                        <h4>07.00 - 10.00 AM (WIB)</h4>
-                        <h4>Villa Akira,<br>Megamendung, Bogor.</h4>
-                        <p><a href="https://goo.gl/maps/SiqeqtZtCRqsTXcA7" class="btn">Location</a></p>
-                        
                     </div>
                     <div class="col-md-4 gla_round_block">
                         <div class="gla_round_im gla_image_bck" data-image="images/app/pasfoto_02.png"></div>
                         <h3>Annisa Fitria Rachim</h3>
                     </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 gla_round_block"></div>
+                    <div class="col-md-4 gla_round_block">
+                        <h4>07.00 - 10.00 AM (WIB)</h4>
+                        <h4>Villa Akira,<br>Megamendung, Bogor.</h4>
+                        <p><a href="https://goo.gl/maps/SiqeqtZtCRqsTXcA7" class="btn">Location</a></p>
+                    </div>
+                    <div class="col-md-4 gla_round_block"></div>
                 </div>
 
                 
@@ -217,8 +218,6 @@
         
         <!-- section -->
         <section class="gla_section gla_image_bck" data-color="#f2f2f2">
-            
-            
             <div class="container text-center">
                 <p><img src="images/animations/flower6.gif" data-bottom-top="@src:images/animations/flower6.gif; opacity:1" class="gla_animated_flower" height="110" alt=""></p>
                 <h2>Wedding Details</h2>
@@ -231,7 +230,6 @@
                             Food is served full course per person.<br>
                             Please choose your menu before May 10<sup>th</sup>, 2021.
                         </p>
-
                         <a href="#" class="btn">View Map</a>
                     </div>
                     <div class="col-md-4 gla_round_block">
